@@ -9923,11 +9923,11 @@ table.table a.btn.btn-black {
 }
 
 .navbar.navbar-dark .navbar-nav .nav-item .nav-link.disbled {
-    color: rgba(255, 255, 255, 0.25)
+    color: #1b5e20
 }
 
 .navbar.navbar-dark .navbar-nav .nav-item .nav-link.disbled:hover {
-    color: rgba(255, 255, 255, 0.25)
+    color: #1b5e20
 }
 
 .navbar.navbar-dark .navbar-toggler-icon {
@@ -9937,7 +9937,7 @@ table.table a.btn.btn-black {
 
 .navbar.navbar-dark .breadcrumb .nav-item .nav-link,
 .navbar.navbar-dark .navbar-nav .nav-item .nav-link {
-    color: #fff;
+    color: #1b5e20;
     -webkit-transition: .35s;
     transition: .35s
 }
